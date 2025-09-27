@@ -1,8 +1,8 @@
-🎮 Menu Interativo de Jogos
+# 🎮 Menu Interativo de Jogos  
 
-Projeto desenvolvido no 3º bimestre de 2023 na disciplina de Programação Web (PW), sob a orientação dos professores Alex e Carlos Eduardo.
+Projeto desenvolvido no **3º bimestre de 2023** na disciplina de **Programação Web (PW)**, sob a orientação dos professores **Alex** e **Carlos Eduardo**.  
 
-Este trabalho teve como objetivo a introdução ao JavaScript para os alunos, por meio da construção de um menu interativo de jogos. Toda a turma foi desafiada a implementar sua própria versão do projeto, aplicando conceitos básicos de programação web.
+Este trabalho teve como objetivo a **introdução ao JavaScript** para os alunos, por meio da construção de um **menu interativo de jogos**. Toda a turma foi desafiada a implementar sua própria versão do projeto, aplicando conceitos básicos de programação web.  
 
 ---
 
