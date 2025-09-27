@@ -1,8 +1,8 @@
-# 🎮 Menu Interativo de Jogos
+🎮 Menu Interativo de Jogos
 
-Projeto desenvolvido no **3º bimestre de 2023** na disciplina de **Programação Web (PW)**, com a orientação dos professores **Alex** e **Carlos Eduardo**, apresentado no evento **Visite 2023**.
+Projeto desenvolvido no 3º bimestre de 2023 na disciplina de Programação Web (PW), sob a orientação dos professores Alex e Carlos Eduardo.
 
-Este repositório traz um **hub digital de jogos**, criado para proporcionar uma experiência interativa e divertida, além de consolidar práticas de desenvolvimento front-end adquiridas em sala de aula.
+Este trabalho teve como objetivo a introdução ao JavaScript para os alunos, por meio da construção de um menu interativo de jogos. Toda a turma foi desafiada a implementar sua própria versão do projeto, aplicando conceitos básicos de programação web.
 
 ---
 
@@ -24,26 +24,23 @@ Este repositório traz um **hub digital de jogos**, criado para proporcionar uma
 
 ---
 
-## 📂 Estrutura do Projeto
+🎯 Objetivo
 
-```
-├── index.html       # Página inicial com o menu de jogos  
-├── pages/           # Páginas individuais dos jogos  
-├── README.md        # Documentação do projeto  
-```
+Introduzir os fundamentos do JavaScript
 
----
+Desenvolver habilidades práticas em Programação Web
 
-## 🎯 Objetivo
+Promover aprendizado colaborativo em sala de aula
 
-O projeto foi idealizado para **engajar o público visitante** do Visite 2023, unindo **aprendizado e entretenimento** em um ambiente digital acessível e dinâmico.
+Criar uma aplicação simples com valor interativo e lúdico
 
----
+--- 
 
 ## 👨‍💻 Desenvolvedores
 
-* [Seu Nome Aqui]
-* [Colegas de equipe, se houver]
+* Leonardo Martins Brasilio
+* Pedro Henrique Menezes Bernardo 
+
 
 ---
 
@@ -57,7 +54,3 @@ O projeto foi idealizado para **engajar o público visitante** do Visite 2023, u
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais e não possui fins comerciais.
-
----
-
-Quer que eu já **monte a versão em Markdown pronta** para você só copiar e colar no `README.md`?
