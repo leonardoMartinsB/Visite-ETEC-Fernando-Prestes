@@ -46,7 +46,8 @@ Criar uma aplicação simples com valor interativo e lúdico
 
 ## 📸 Demonstração
 
-![Menu de Jogos](./assets/screenshot.png)
+![Menu de Jogos](<img width="1423" height="725" alt="image" src="https://github.com/user-attachments/assets/0cd1543f-66b3-4e8b-9354-d28dc0a410c4" />
+)
 *(adicione um print do projeto em ação)*
 
 ---
