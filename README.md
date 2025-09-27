@@ -46,9 +46,14 @@ Criar uma aplicação simples com valor interativo e lúdico
 
 ## 📸 Demonstração
 
-![Menu de Jogos](<img width="1423" height="725" alt="image" src="https://github.com/user-attachments/assets/0cd1543f-66b3-4e8b-9354-d28dc0a410c4" />
-)
-*(adicione um print do projeto em ação)*
+<img width="1423" height="725" alt="image" src="https://github.com/user-attachments/assets/4328d09c-1474-4ee2-9a68-0a13ac0ce9fe" />
+Tela de Início
+
+
+<img width="1414" height="728" alt="image" src="https://github.com/user-attachments/assets/67559573-605f-4998-9807-27bda074f89b" />
+Tela do Jogo de Adivinhar Imagem
+
+
 
 ---
 
