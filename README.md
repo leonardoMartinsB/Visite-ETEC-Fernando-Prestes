@@ -46,8 +46,10 @@ Criar uma aplicação simples com valor interativo e lúdico
 
 ## 📸 Demonstração
 
-<img width="1423" height="725" alt="image" src="https://github.com/user-attachments/assets/4328d09c-1474-4ee2-9a68-0a13ac0ce9fe" />
+
 Tela de Início
+<img width="1423" height="725" alt="image" src="https://github.com/user-attachments/assets/4328d09c-1474-4ee2-9a68-0a13ac0ce9fe" />
+
 
 
 <img width="1414" height="728" alt="image" src="https://github.com/user-attachments/assets/67559573-605f-4998-9807-27bda074f89b" />
